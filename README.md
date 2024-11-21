@@ -1,5 +1,7 @@
 # Review Android Project
 
+cv: https://drive.google.com/file/d/1PAma2BFFejGxzezTM4xnW-mjmiSZlZec/view?usp=sharing
+
 nb: Untuk tim internal dicoding, maaf sebelumnya saya hanya memberi saran satu kali pada permasalahannya yang sama, jika saya temukan kesalahan yang sama pada file yang lain, saya tidak memberi saran pada file tersebut untuk masalah itu, tetapi jika kesalahannya berbeda, saya memberi saran pada kesalahan tersebut.
 
 Thanks.
